@@ -1,0 +1,20 @@
+name: rafe_utils
+description: "A collection of utilities I use in my flutter projects. This package is not meant to be used as a standalone"
+version: 0.0.1
+publish_to: none
+homepage: https://rafe-esin.com/flutter/rafe_utils
+
+environment:
+  sdk: ">=3.3.1 <4.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
